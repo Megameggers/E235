@@ -1,7 +1,7 @@
 # This tutorial will walk you through retrieving and sending official and non-official transcripts
 
 
-[![homepage](https://i.imgur.com/LbQxFss.jpg)]([https://my.pierce.ctc.edu/WebApps/MyPierce/StudentLogin.aspx?ReturnUrl=%2FWebApps%2FMyPierce%2F](https://my.pierce.ctc.edu/WebApps/MyPierce/StudentLogin.aspx?ReturnUrl=%2FWebApps%2FMyPierce%2F) "Redirect to Pierce Portal")
+[![homepage](https://github.com/Megameggers/E235/blob/Transcripts-images/my%20pierce%20header.jpeg)](https://my.pierce.ctc.edu/WebApps/MyPierce/StudentLogin.aspx?ReturnUrl=%2FWebApps%2FMyPierce%2F) "Redirect to Pierce Portal")
 
 *For non-official transcripts, the first thing you need to do is log-in to MyPierce Portal*
 
