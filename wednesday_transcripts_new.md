@@ -1,35 +1,37 @@
-Transcripts
+# Transcripts
 
-Table of contents
+## Table of contents
 
-Overview
-Non-official transcripts
+[Overview](#Overview)
+[Non-official transcripts](#non-official-transcripts)
+[Official transcripts](#Official transcripts)
 
+# Overview
 
-All students that complete college classes will have transcripts. Transcripts are the record that holds which courses you have taken and what grade you received for each class. 
+> All students that complete college classes will have transcripts. Transcripts are the record that holds which courses you have taken and what grade you received for each class. 
 
-Why do we need these records?
+**Why do we need these records?**
 
-Life happens situations change. If you need to transfer colleges you will need to give the receiving college your transcript if you want to receive credit towards a degree or certificate at that college. Additionally, If you plan to graduate from pierce college but transfer to a four year after, you will also need to give that university your transcripts. 
+> Life happens situations change. If you need to transfer colleges you will need to give the receiving college your transcript if you want to receive credit towards a degree or certificate at that college. Additionally, If you plan to graduate from pierce college but transfer to a four year after, you will also need to give that university your transcripts. 
 
-Official, Unofficial…? What does that mean and why does it matter.
+**Official, Unofficial…? What does that mean and why does it matter?**
 
-Unofficial transcripts will not be used by any other college or university as credit towards graduation. However, colleges and universities will accept unofficial transcripts for the purpose of transfer credit evaluations. Without getting into the weeds, these evaluations are simply if the receiving college finds your courses equivalent to theirs required in the degree plan you wish to pursue. You may also review your transcripts to see your GPA and a reminder to which courses you’ve taken. The final reason is if you wish to show an employer or potential employer a completed course.
+    Unofficial transcripts will not be used by any other college or university as credit towards graduation. However, colleges and universities will accept unofficial transcripts for the purpose of transfer credit evaluations. Without getting into the weeds, these evaluations are simply if the receiving college finds your courses equivalent to theirs required in the degree plan you wish to pursue. You may also review your transcripts to see your GPA and a reminder to which courses you’ve taken. The final reason is if you wish to show an employer or potential employer a completed course.
 
-Official transcripts are what is required by colleges and universities for you to receive credit towards graduation.
+    Official transcripts are what is required by colleges and universities for you to receive credit towards graduation.
 
-Okay. So, what’s the difference?
+**Okay. So, what’s the difference?**
 
-An unofficial transcript can be printed online at any time. Once grades are posted they will appear on the unofficial transcript. 
+    An unofficial transcript can be printed online at any time. Once grades are posted they will appear on the unofficial transcript. 
 
-The official transcript is the EXACT same document as the unofficial transcript. The difference is that it has to be sealed from the school or sent digitally. There is also usually a small fee associated. With Pierce College the fee is minimal- $2.50.
+    The official transcript is the EXACT same document as the unofficial transcript. The difference is that it has to be sealed from the school or sent digitally. There is also usually a small fee associated. With Pierce College the fee is minimal- $2.50.
 
 # Non-official transcripts
 
 
 *For non-official transcripts, the first thing you need to do is log-in to MyPierce Portal*
 
-[![homepage]( https://github.com/Megameggers/E235/blob/ac16a7b3403bc56c10028ddffbe91dd46814f9a0/my_pierce_header.jpeg?raw=true)](https://my.pierce.ctc.edu/WebApps/MyPierce/StudentLogin.aspx?ReturnUrl=%2FWebApps%2FMyPierce%2F) "Redirect to Pierce Portal")
+[![MyPierce homepage]( https://github.com/Megameggers/E235/blob/ac16a7b3403bc56c10028ddffbe91dd46814f9a0/my_pierce_header.jpeg?raw=true)](https://my.pierce.ctc.edu/WebApps/MyPierce/StudentLogin.aspx?ReturnUrl=%2FWebApps%2FMyPierce%2F) "Redirect to Pierce Portal")
 
 
 >You will need your SID and Birthdate (MMDDYY) unless you have made changes to the standard password.
