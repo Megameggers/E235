@@ -3,8 +3,10 @@
 ## Table of contents
 
 [Overview](#Overview)
+
 [Non-official transcripts](#non-official-transcripts)
-[Official transcripts](#Official transcripts)
+
+[Official transcripts](#Official-transcripts)
 
 # Overview
 
@@ -26,7 +28,7 @@
 
     The official transcript is the EXACT same document as the unofficial transcript. The difference is that it has to be sealed from the school or sent digitally. There is also usually a small fee associated. With Pierce College the fee is minimal- $2.50.
 
-# Non-official transcripts
+# Non official transcripts
 
 
 *For non-official transcripts, the first thing you need to do is log-in to MyPierce Portal*
@@ -49,7 +51,7 @@ On the top of your grades select [“Click here for a printable Unoffical Transc
 
 >[pulling up unofficial transcript]( https://github.com/Megameggers/E235/blob/Transcripts-images/actual_unofficial_transcript.jpeg?raw=true)
 
-# For official transcripts
+# Official transcripts
 
 [![Transcripts](https://i.imgur.com/7rXqBmH.jpg)]([https://www.pierce.ctc.edu/transcripts](https://www.pierce.ctc.edu/transcripts) "redirects to transcripts")
 
